@@ -1,0 +1,2 @@
+# An-IoT-ENABLED-HAPTIC--NAVIGATION-BAND-FOR-PHSICALLY-CHALLENGED-INDIVIDUALS-FINAL-YEAR-PROJECT
+Designed and developed an IoT-enabled wearable haptic navigation band that provides real-time tactile feedback to assist visually impaired individuals in safe navigation. Integrated Arduino microcontroller,  and Bluetooth connectivity to detect obstacles and deliver directional cues through vibration motors.
