@@ -28,7 +28,8 @@ The device uses **vibration motors** to deliver directional cues, improving mobi
 - Wearable and lightweight design for user comfort  
 - Wireless communication with mobile app   
 - Low power consumption for extended use  
-- Affordable and scalable for production  
+- Affordable and scalable for production
+- Easy to use 
 
 ---
 
